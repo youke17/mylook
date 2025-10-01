@@ -11,7 +11,7 @@ NewsNow is built to be easily extensible with new sources. Here's a step-by-step
 Always create a feature branch for your changes:
 
 ```bash
-git checkout -b feature-name
+git checkout -b feature-name   
 ```
 
 For example, to add a Bilibili hot video source:
