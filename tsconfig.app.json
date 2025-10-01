@@ -8,7 +8,7 @@
     "paths": {
       "~/*": ["src/*"],
       "@shared/*": ["shared/*"]
-    }
+    } 
   },
   "include": ["src", "shared", "imports.app.d.ts"]
 }
