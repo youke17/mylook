@@ -13,7 +13,7 @@ const pwaOption: Partial<VitePWAOptions> = {
     icons: [
       {
         src: "pwa-192x192.png",
-        sizes: "192x192",
+        sizes: "192x192",  
         type: "image/png",
       },
       {
