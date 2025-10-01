@@ -9,7 +9,7 @@ export default defineConfig({
     presetWind3(),
     presetIcons({
       scale: 1.2,
-    }),
+    }),  
   ],
   rules: [
     [/^sprinkle-(.+)$/, ([_, d], { theme }) => {
