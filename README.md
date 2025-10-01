@@ -14,7 +14,7 @@ English | [简体中文](README.zh-CN.md) | [日本語](README.ja-JP.md)
 - GitHub OAuth login with data synchronization
 - 30-minute default cache duration (logged-in users can force refresh)
 - Adaptive scraping interval (minimum 2 minutes) based on source update frequency to optimize resource usage and prevent IP bans
-- support MCP server
+- support MCP server 
 
 ```json
 {
