@@ -12,7 +12,7 @@ export default defineConfig({
   resolve: {
     alias: {
       "@shared": join(projectDir, "shared"),
-      "#": join(projectDir, "server"),
+      "#": join(projectDir, "server"),  
     },
   },
   plugins: [
