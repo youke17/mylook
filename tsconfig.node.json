@@ -6,7 +6,7 @@
     "baseUrl": ".",
     "paths": {
       "#/*": ["server/*"],
-      "@shared/*": ["shared/*"]
+      "@shared/*": ["shared/*"]  
     }
   },
   "include": ["server", "*.config.*", "shared", "test", "scripts", "tools", "dist/.nitro/types"]
